@@ -1,0 +1,27 @@
+title: EEG101 - Fundamentals of Open & Rigorous EEG Science
+email: robert.oostenveld@donders.ru.nl
+description: EEG101 COST Action
+baseurl: ""
+url: "https://eeg101-costaction.github.io"
+logo: /assets/images/logo.png
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - collaborators.md
+  - workgroups.md
+  - contact.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - STRUCTURE.md
+  - LICENSE.md
