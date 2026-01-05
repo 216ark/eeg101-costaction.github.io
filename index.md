@@ -3,14 +3,6 @@ layout: default
 title: EEG101 - Fundamentals of Open & Rigorous EEG Science
 ---
 
-The mission of EEG101 is to establish a coordinated, open, and inclusive European network that advances rigorous EEG science by standardising methodologies, enabling data sharing, and providing equitable training resources, thereby improving reproducibility, collaboration, and global leadership in EEG research.
-
-## About COST Action
-
-[COST](https://www.cost.eu/) (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. COST Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
-
-## About EEG101
-
 EEG101 is a European [COST Action](https://www.cost.eu/actions/CA24148) that unites the EEG community to reduce methodological inconsistencies by developing shared standards, harmonised datasets, and collaborative open-science infrastructure, turning principles of open and rigorous EEG science into shared tools, data, training, and practice across Europe.
 
 By supporting training, inclusion, and cross-sector partnerships—especially through dedicated funding for early-career and underrepresented researchers and engagement with industry, charities, and policymakers—EEG101 aims to make EEG research more reproducible, impactful, and globally influential, positioning Europe as a leader in open EEG science with clear societal benefits.
@@ -22,6 +14,10 @@ By supporting training, inclusion, and cross-sector partnerships—especially th
 - **Advance open and rigorous EEG science** Accelerate adoption of open research practices through shared resources, ethical guidelines (the EEG Manifesto), and coordinated international collaboration with major global EEG initiatives.
 - **Build research capacity and skills across Europe** Deliver open-access training materials, workshops, and Summer Schools, with a strong focus on early-career researchers and Inclusiveness Target Countries, to reduce inequalities in access to expertise and resources.
 - **Strengthen networking, innovation, and interdisciplinary collaboration** Foster collaboration through Short-Term Scientific Missions (STSMs), Virtual Mobility Grants (VMGs), conferences, and industry partnerships to address shared methodological challenges and stimulate innovation.
+
+## About COST Action
+
+[COST](https://www.cost.eu/) (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. COST Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
 
 ## News and Updates
 
