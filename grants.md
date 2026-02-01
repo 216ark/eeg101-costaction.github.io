@@ -1,0 +1,13 @@
+---
+layout: default
+title: Grants
+permalink: /grants/
+---
+
+# Grants
+
+EEG101 will soon be inviting applications for Short-Term Scientific Missions (STSMs), Virtual Mobility Awards (VMAs) and Conference/Dissemination Grants. These schemes support training, collaboration and dissemination activities that directly advance EEG101 Working Group deliverables and strengthen our global EEG community.
+
+Please note that applicants must already be approved members of at least one EEG101 Working Group and must read the COST eligibility and guidance document before applying. Responsibility for checking eligibility rests with the applicant. Applications that do not comply with the rules may be deemed ineligible.
+
+**Stay tuned for more!...**
